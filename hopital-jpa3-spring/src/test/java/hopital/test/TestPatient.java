@@ -17,6 +17,7 @@ public class TestPatient {
 		patientDao.create(danh);
 		
 		context.close();
+		System.out.println("coucou");
 	}
 
 }
