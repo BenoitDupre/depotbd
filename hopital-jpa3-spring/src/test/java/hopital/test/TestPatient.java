@@ -18,7 +18,7 @@ public class TestPatient {
 		
 		context.close();
 		System.out.println("coucou");
-		// pour voir
+	
 	}
 
 }
